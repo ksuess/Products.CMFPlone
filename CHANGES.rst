@@ -10,7 +10,8 @@ Changelog
 
 Breaking changes:
 
-- *add item here*
+- Insert media: bug fix for internal audio files 
+   [ksuess]
 
 New features:
 

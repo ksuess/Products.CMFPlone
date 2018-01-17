@@ -530,8 +530,8 @@ define('tinymce.media.core.DataToHtml', [
 
         // better: use typeToViewAction for files 
         // astronaut.mp3
-        data.source1 = data.source1.replace(/\/view$/, "")
-        editor.settings = $.extend(editor.settings, {relative_urls: false})
+        data.source1 = data.source1.replace(/\/view$/, "");
+        editor.settings = $.extend(editor.settings, {relative_urls: false});
 
 		data.source1 = editor.convertURL(data.source1, "source");
 		data.source2 = editor.convertURL(data.source2, "source");
