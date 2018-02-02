@@ -19,7 +19,8 @@ New features:
 
 Bug fixes:
 
-- *add item here*
+- image modal: use image description for modal title
+  [ksuess]
 
 
 5.1rc2 (2017-11-26)
